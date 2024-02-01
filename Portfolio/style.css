@@ -3,8 +3,6 @@
   margin: 0;
   box-sizing: border-box;
   color: #ffffff;
-  text-decoration: none;
-  pointer-events: none;
 }
 header {
   height: 80vh;
